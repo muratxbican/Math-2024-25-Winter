@@ -12,4 +12,6 @@ $$
 b = \int_0^\pi x^2 \, dx \approx 10.3354255600999
 $$
 
+$$
+
 ![alt text](image.png)
