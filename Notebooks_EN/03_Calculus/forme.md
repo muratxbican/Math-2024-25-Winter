@@ -1,6 +1,6 @@
 ### Integrals of the Functions
 
-The integrals of the following functions over the interval \([0, \pi]\) are:
+The integrals of the following functions over the interval \([0, \pi]\) are: ww
 
 1. For \( f(x) = 2x + 1 \):
    $$ 
